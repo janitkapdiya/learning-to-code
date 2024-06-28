@@ -39,10 +39,20 @@ li{
   font-size: 20px;
 }
 
-footer p {
+#author{
+  font-style: italic;
+  font-size: 18px;
+}
+
+.copy{
   font-size: 15px;
 }
 
-header p{
-  font-style: italic ;
+.related-author{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.related-post{
+  list-style: none;
 }
