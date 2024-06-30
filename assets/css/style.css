@@ -216,9 +216,7 @@ the website, in dark theme
 }
 
 .nav__logo {
-  /* text-transform: uppercase; */
-  font-weight: 700;
-  /* letter-spacing: -1px; */
+  font-weight: 600;
   display: inline-flex;
   align-items: center;
   column-gap: .5rem;
