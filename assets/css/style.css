@@ -18,8 +18,9 @@
     --text-color-light: hsl(var(--hue), 4%, 55%);
     --body-color: hsl(var(--hue), 0%, 100%);
     --container-color: #FFF;
-    --html-color: #E54C21;
-    --html-dark-color: #e03100;
+    --practical-bg-color: #EFEFEF;
+    --practical-text-color: #333333;
+    --practical-number-box-color: #868686;
 
     /*========== Font and typography ==========*/
     /*.5rem = 8px | 1rem = 16px ...*/
@@ -402,7 +403,10 @@ the website, in dark theme
     font-weight: var(--font-medium);
 }
 
-.button--link:hover .button__icon {
+.practical-button-link{
+    margin-top: 1rem;
+    color: var(--practical-text-color);
+    font-weight: var(--font-medium);
 }
 
 /*=============== ABOUT ===============*/
@@ -443,18 +447,20 @@ the website, in dark theme
 
 /*=============== STEPS ===============*/
 .steps__bg {
-    background-color: var(--html-color);
+    background-color: var(--practical-bg-color);
     padding: 3rem 2rem 2rem;
     border-radius: 1rem;
 }
 
 .steps__container {
+    color: var();
     gap: 2rem;
     padding-top: 1rem;
 }
 
 .steps__title {
-    color: #FFF;
+    font-size: 2rem;
+    color: var(--practical-text-color);
 }
 
 .steps__card {
@@ -465,7 +471,7 @@ the website, in dark theme
 
 .steps__card-number {
     display: inline-block;
-    background-color: var(--html-dark-color);
+    background-color: var(--practical-text-color);
     color: #FFF;
     padding: .5rem .75rem;
     border-radius: .25rem;
@@ -990,6 +996,7 @@ the website, in dark theme
 
     .section__title,
     .section__title-center {
+        color: var(--practical-text-color);
         font-size: var(--h1-font-size);
     }
 
