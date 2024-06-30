@@ -13,10 +13,9 @@
 <p>This repository is for educational purposes only. All exercises are created by Janit Kapadiya.</p>
 
 <h2>Social Media</h2>
+<p>📸 Instagram: <a href="https://www.instagram.com/janitkapadiya" target="_blank">@janitkapadiya</a></p>
+<p>🐦 Twitter: <a href="https://twitter.com/janitkapadiya" target="_blank">@janitkapadiya</a></p>
+<p>📧 eMail: <a href="mailto:janitkapdiya@gmail.com" target="_blank">janitkapdiya@gmail.com</a></p>
 
-    <p>📸 Instagram: <a href="https://www.instagram.com/janitkapadiya" target="_blank">@janitkapadiya</a></p>
-    <p>🐦 Twitter: <a href="https://twitter.com/janitkapadiya" target="_blank">@janitkapadiya</a></p>
-    <p>📧 eMail: <a href="mailto:janitkapdiya@gmail.com" target="_blank">janitkapdiya@gmail.com</a></p>
-
-<hr>
+<h2></h2>
 <p>Created with ❤️ by Janit Kapadiya</p>
