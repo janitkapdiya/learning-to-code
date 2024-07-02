@@ -1,0 +1,47 @@
+body{
+  font-family: sans-serif;
+  border: 5px solid black;
+}
+
+article h3{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.product__highlight{
+  color: grey;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.product__title{
+  text-transform: uppercase;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.product__details{
+  text-transform: uppercase;
+}
+
+.button{
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  border: none;
+}
+
+.button:hover{
+  background-color: white;
+  color: black;
+}
+
+article a{
+  color: black;
+}
+
+article a:hover{
+  text-decoration: none;
+}
