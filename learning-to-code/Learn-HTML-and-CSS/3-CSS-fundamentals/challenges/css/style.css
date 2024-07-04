@@ -1,41 +1,45 @@
-*{
+* {
   color: #444;
   font-family: sans-serif;
   margin: 0;
   padding: 0;
 }
 
-body{
-  border-top: 10px solid #1098AD;
+body {
+  border-top: 10px solid #1098ad;
 }
-
 
 .main-header {
-  background-color: #F7F7F7;
+  background-color: #f7f7f7;
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
 }
 
-
-nav{
+nav {
   font-size: 20px;
 }
 
-article{
+article {
   margin-bottom: 60px;
 }
 
+.post-image {
+  width: 100%;
+  height: auto;
+}
+
 aside {
-  background-color: #F7F7F7;
-  border-top: 5px solid #1098AD;
-  border-bottom: 5px solid #1098AD;
+  background-color: #f7f7f7;
+  border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad;
   padding: 50px 0px;
 }
 
 h1,
 h2,
 h3 {
-  color: #1098AD;
+  color: #1098ad;
 }
 
 h1 {
@@ -73,7 +77,8 @@ b {
   font-style: italic;
 }
 
-ul, ol{
+ul,
+ol {
   margin-left: 50px;
   margin-bottom: 20px;
 }
@@ -84,7 +89,7 @@ li {
   margin-bottom: 10px;
 }
 
-li:last-child{
+li:last-child {
   margin-bottom: 0;
 }
 
@@ -93,7 +98,7 @@ li:last-child{
   font-size: 18px;
 }
 
-.post-header{
+.post-header {
   margin-bottom: 40px;
 }
 
@@ -110,7 +115,6 @@ li:last-child{
   list-style: none;
 }
 
-
 /* li:first-child {
   font-weight: bold;
 }
@@ -123,22 +127,22 @@ li:nth-child(3){
   font-weight: bolder;
 } */
 
-a{
-  color: #1098AD;
+a {
+  color: #1098ad;
   text-decoration: none;
 }
 
-a:visited{
-  color: #1098AD;
+a:visited {
+  color: #1098ad;
 }
 
-a:hover{
+a:hover {
   color: orangered;
   font-weight: bold;
   text-decoration: underline wavy black;
 }
 
-a:active{
+a:active {
   color: green;
   background-color: black;
 }
