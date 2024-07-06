@@ -1,6 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  width: 70%;
+  margin: 5% auto;
+  border: 5px solid black;
+}
+
 body{
   font-family: sans-serif;
-  border: 5px solid black;
 }
 
 article h3{
@@ -36,6 +46,12 @@ article h3{
 .button:hover{
   background-color: white;
   color: black;
+}
+
+ul,
+ol {
+  margin-left: 30px;
+  margin-bottom: 20px;
 }
 
 article a{
