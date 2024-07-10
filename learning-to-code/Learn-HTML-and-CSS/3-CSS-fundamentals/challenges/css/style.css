@@ -180,3 +180,8 @@ nav a:link:last-child{
   background-color: #F7F7F7;
   border: 4px solid #1098AD;
 }
+
+h1::first-letter{
+  font-style: normal;
+  margin-right: 5px;
+}
