@@ -175,6 +175,12 @@ the website, in dark theme
     text-align: center;
 }
 
+.practical__subtitle{
+    text-align: center;
+    font-size: var(--h3-font-size);
+    margin-top: 3rem;
+}
+
 .container {
     max-width: 968px;
     margin-left: var(--mb-1-5);
