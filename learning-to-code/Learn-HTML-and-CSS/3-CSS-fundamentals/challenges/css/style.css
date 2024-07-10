@@ -185,3 +185,20 @@ h1::first-letter{
   font-style: normal;
   margin-right: 5px;
 }
+
+h2{
+  position: relative;
+}
+
+h2::after{
+  content: "NEW";
+  background-color: #FFE70E;
+  color: #000000;
+  font-size: 15px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 5px 10px;
+  position: absolute;
+  top: -15px;
+  right: 0;
+}
