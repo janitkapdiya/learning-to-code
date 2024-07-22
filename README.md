@@ -2,7 +2,7 @@
 <h2>ℹ️ About</h2>
 <p>This repository is dedicated to learning HTML, CSS, and JavaScript. It serves as a collection of practical exercises and projects.</p>
 
-<h2>🚀 Practicals Link</h2>
+<h2>🚀 Practical's Link</h2>
 <p>You can access all the practicals in this repository <a href="https://janitkapdiya.github.io/learning-to-code/" targert="_blank">here</a>.</p>
 
 <h2>🔗 Useful Links</h2>
@@ -20,7 +20,7 @@
 <h2>Social Media</h2>
 <p>📸 Instagram: <a href="https://www.instagram.com/janitkapadiya" target="_blank">@janitkapadiya</a></p>
 <p>🐦 Twitter: <a href="https://twitter.com/janitkapadiya" target="_blank">@janitkapadiya</a></p>
-<p>📧 eMail: <a href="mailto:janitkapdiya@gmail.com" target="_blank">janitkapdiya@gmail.com</a></p>
+<p>📧 email: <a href="mailto:janitkapdiya@gmail.com" target="_blank">janitkapdiya@gmail.com</a></p>
 
 <h2></h2>
 <p>Created with ❤️ by Janit Kapadiya</p>
